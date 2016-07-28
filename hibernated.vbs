@@ -1,4 +1,4 @@
 Dim message, sapi
-message="System will now hibernate"
+message="System hibernated"
 Set sapi=CreateObject("sapi.spvoice")
 sapi.Speak message 

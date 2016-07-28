@@ -14,7 +14,9 @@ IfMsgBox, Yes
 	
 	SetTimer, CountDown, Off
 	run hibernated.vbs
+	sleep, 2000
 	run shutdown -h
+
 
 }
 IfMsgBox, No
