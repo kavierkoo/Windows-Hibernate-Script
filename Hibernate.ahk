@@ -1,3 +1,4 @@
+;Script designed by Kavier for individual purposes with no copyright infringement intended
 Secs := 10
 MsgBox,4,, Hibernate Now?
 IfMsgBox, Yes

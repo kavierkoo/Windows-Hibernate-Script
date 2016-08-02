@@ -9,3 +9,5 @@ Recently I added Text to speech features just for fun.
 
 PS: It is executable via Hibernate.exe without requiring AHK to be pre-installed in user's pc
 and please keep all the .vbs files along with Hibernate.exe or Hibernate.ahk as these are the files that AHK will call for Text to speech. 
+
+Script designed by Kavier for individual purposes with no copyright infringement intended
